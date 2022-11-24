@@ -1,0 +1,16 @@
+#if elif else
+
+##show ticket  pricing  1 to 3 free  4 to 10 50  10 to 60 100   60 to 80  150
+age = input("please enter your age :")
+age = int(age)
+if age==0:
+    print("you cannot watch")
+
+elif 0<age<=3:
+    print("ticket pricing:free")
+elif 3<age<=10:
+    print("ticket pricing: 50")
+elif 10<age<=60:
+    print("ticket pricing: 100")
+else:
+  print("ticket price : 150")

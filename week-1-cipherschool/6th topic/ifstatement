@@ -1,0 +1,13 @@
+#if condition ##if condition is true then statement will execute
+
+age = input("enter your age:")
+age = int(age)
+if age >= 14:
+    print("you are above 14")
+
+#pass statement we didn't do this thing without writing code but for info only 
+x = 18
+if x >18:
+    pass
+
+    

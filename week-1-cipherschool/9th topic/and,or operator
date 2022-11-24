@@ -1,0 +1,15 @@
+#and,or operator at same time
+name = 'antra'
+age = 18
+if name == 'antra' and age == 18:
+    print("true")
+else:
+    print("false")
+
+#any one condition true its shows true
+    name = 'antra'
+age = 18
+if name == 'antra' or age == 18:
+    print("true")
+else:
+    print("false")

@@ -1,0 +1,6 @@
+#print()function ()paraenthesis    string-collection of character inside "double quotes" or 'single quotes'   we can use 'single quotes'inside"double quotes"      or "double quotes" inside'single'
+print("Hello antra !!")
+print('hello!!')
+print("hello 'Antra' gupta")
+print('hello "Antra" gupta')
+print("i'm Antra")

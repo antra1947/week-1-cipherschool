@@ -1,0 +1,7 @@
+## #in keyword
+
+name = "antra"
+if 'r' in "antra":
+      print("r is present in name")
+else:
+     print("not present")

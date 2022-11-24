@@ -1,0 +1,13 @@
+#escape sequences  
+#\' single quotes
+#\" double quotes
+#\\ backslash
+#\n new line
+#\t tab
+#\b backspace
+print("hello \"antra\" gupta")
+print('I\'m antra')
+print("line A\nline B")
+print("name \t antra")
+print("this is antra\\\\")
+print("antra\baa")
